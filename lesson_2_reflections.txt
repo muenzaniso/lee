@@ -1,1 +1,1 @@
-git init 
+how is the staging area different to te working directory and the respositor? what values are
