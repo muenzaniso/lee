@@ -1,1 +1,5 @@
 how is the staging area different to te working directory and the respositor? what values are
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can commit after making sure that what you updated is necessary
