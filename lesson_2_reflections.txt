@@ -3,3 +3,7 @@ how is the staging area different to te working directory and the respositor? wh
 How can you use the staging area to make sure you have one commit per logical change?
 
 you can commit after making sure that what you updated is necessary
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you are trying something new that you may want but not sure if it will be beta
