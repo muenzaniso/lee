@@ -7,3 +7,7 @@ you can commit after making sure that what you updated is necessary
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when you are trying something new that you may want but not sure if it will be beta
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the result is having a version with both data from different branches. its because its clearer to visualise and makes it easier to understand
