@@ -11,3 +11,7 @@ when you are trying something new that you may want but not sure if it will be b
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 the result is having a version with both data from different branches. its because its clearer to visualise and makes it easier to understand
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+manually merging of files give you the freedom to control your project
