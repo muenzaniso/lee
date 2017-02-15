@@ -5,3 +5,11 @@ when you want to share with people
 why might you want to always pull changes manually rather than hving git automtically start up-to-date with your remote repository?
 
 when you want pull want to prefer is necessary for you
+
+Describe the difference between forks,clones, and branches. When would use one instead of another?
+
+clone: is when you copy a repository from the url onto your local machine 
+fork:copying direct from cloud to a cloud without first coping on your local machine
+branch:creating a new version but still the old version being usable and also the old version might still be the main version
+forking usually used when you dont want have the repository on your local server while cloning when you want it on your machine especially when you need to edit
+then branches usually done in trying to experiment a new feature 
